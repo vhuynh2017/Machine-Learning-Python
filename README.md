@@ -57,5 +57,19 @@ The repository contains Machine Learning related assignments or projects. The so
 * Using Brute-Force Approach for the Self-driving Tax Problem
 * Using Reinforcement Learning (Q-Learning Algorithm) for the Self-driving Tax Problem
 
+8. [K-Means Clustering and Support Vector Machines](../master/K-Means%20Clustering%20and%20Support%20Vector%20Machines.ipynb)
+* Principle Component Analysis (PCA)
+* K-Means Clustering
+* Support Vector Machine (SVM) / Support Vector Classification (SVC)
+
+9. [Movie Recommender System](../master/Movie%20Recommender%20System/Movie%20Recommender%20System.ipynb)
+* Memory-based approach: Item Based Collaborative Filtering
+* Model-based approach: K Nearest Neighbor (KNN)
+
+
+
+
+
+
 
 
